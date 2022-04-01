@@ -1990,6 +1990,7 @@
 			ほかのゆっくりなんてみないで %nameのことだけみててほしいよ！
 			おにいさんのこと だれよりもゆっくりさせてあげるよ！
 			おにいさぁん、、おにぃさぁん、、♥
+			ゆにゃ～♥
 		</adult>
 	</normal>
 	<rude>
@@ -2850,6 +2851,207 @@
 	</normal>
 [/DontPlayMe]
 # 子供が捕食種に食われた際の反撃メッセージ
+
+#プロポーズイベント関連
+#待ってください
+[PleaseWait]
+	<normal>
+		<baby>
+			%nameのみらいのはにーちゃん！！ゆっきゅりまっちぇね！
+			%nameのおよめちゃん！！ちょっとはなちをきいちぇね！！
+			ゆっきゅりまっちぇね！！はなちをきいちぇね！！
+		</baby>
+		<child>
+			%nameのみらいのはにーしゃん！！ゆっきゅりまっちぇね！
+			%nameのおよめしゃん！！ちょっとはなしをきいちぇね！！
+			ゆっきゅりまっちぇね！！はなしをきいちぇね！！
+		</child>
+		<adult>
+			%nameのみらいのはにーさん！！ゆっくりまってね！
+			%nameのおよめさん！！ちょっとはなしをきいてね！！
+			ゆっくりまってね！！はなしをきいてね！！
+		</adult>
+	</normal>
+[/PleaseWait]
+
+#プロポーズ
+[Propose]
+	<normal>
+		<baby>
+			ゆん！%partner！%nameのおよめちゃんになってほちいよ！
+			ゆ！%nameは%partnerちょいっちょにずっちょゆっきゅりちちゃいよ！！
+			%partner！%nameちょずっちょいっちょにゆっきゅりちようね！！
+		</baby>
+		<child>
+			ゆん！%partner！%nameのおよめしゃんになってほしいよ！
+			ゆ！%nameは%partnerといっしょにずっとゆっきゅりしちゃいよ！！
+			%partner！%nameとずっといっしょにゆっきゅりしようね！！
+		</child>
+		<adult>
+			ゆん！%partner！%nameのおよめさんになってほしいよ！
+			ゆ！%nameは%partnerといっしょにずっとゆっくりしたいよ！！
+			%partner！%nameとずっといっしょにゆっくりしようね！！
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			ゆん！%partner！%nameのおよめちゃんになってほちいよ！
+			ゆ！%nameは%partnerちょいっちょにずっちょゆっきゅりちちゃいよ！！
+			%partner！%nameちょずっちょいっちょにゆっきゅりちようね！！
+		</baby>
+		<child>
+			ゆん！%partner！%nameのおよめしゃんになってほしいよ！
+			ゆ！%nameは%partnerといっしょにずっとゆっきゅりしちゃいよ！！
+			%partner！%nameとずっといっしょにゆっきゅりしようね！！
+			ゆん！%partner！%nameがずっといっしょにゆっきゅりしちぇあげるよ！
+			%partner！%nameのおよめしゃんになっちぇね！
+		</child>
+		<adult>
+			ゆん！%partner！%nameのおよめさんになってほしいよ！
+			ゆ！%nameは%partnerといっしょにずっとゆっくりしたいよ！！
+			%partner！%nameとずっといっしょにゆっくりしようね！！
+			ゆん！%partner！%nameがずっといっしょにゆっくりしてあげるよ！
+			%partner！%nameのおよめさんになってね！
+		</adult>
+	</rude>
+[/Propose]
+
+#プロポーズ受諾
+[ProposeYes]
+	<normal>
+		<baby>
+			わかっちゃよ！じゅっといっちょにゆっきゅりちようね！！
+			%nameも、%partnerといっちょにゆっきゅりちちゃいよ！
+			ゆぅ//わかっちゃよ…%nameも%partnerといっちょにゆっきゅりちちゃいよ！
+		</baby>
+		<child>
+			わかっちゃよ！じゅっといっしょにゆっきゅりしようね！！
+			%nameも、%partnerといっしょにゆっきゅりしちゃいよ！
+			ゆぅ//わかっちゃよ…%nameも%partnerといっしょにゆっきゅりしちゃいよ！
+		</child>
+		<adult>
+			わかったよ！ずっといっしょにゆっくりしようね！！
+			%nameも、%partnerといっしょにゆっくりしたいよ！
+			ゆぅ//わかったよ…%nameも%partnerといっしょにゆっくりしたいよ！
+		</adult>
+	</normal>
+[/ProposeYes]
+
+#プロポーズ拒否
+[ProposeNo]
+	<normal>
+		<baby>
+			ぎょめんね、、、%name、みょうきょきょりょにきめちゃゆっきゅりがいりゅんぢゃよ、、、
+			わりゅいけぢょ、ちょれはぢぇきにゃいよ、、、
+		</baby>
+		<child>
+			ぎょめんね、、、%name、みょうきょきょろにきめちゃゆっきゅりがいりゅんぢゃよ、、、
+			わりゅいけぢょ、しょれはぢぇきにゃいよ、、、
+		</child>
+		<adult>
+			ごめんね、、、%name、もうこころにきめたゆっくりがいるんだよ、、、
+			わるいけど、それはできないよ、、、
+		</adult>
+	</normal>
+[/ProposeNo]
+
+#やらないか
+[LetsPlay]
+	<normal>
+		<baby>
+			ぢゃぁ、、//
+			%partner…%nameおちびちゃんがほちいよぉ…
+			%partner…%name、%partnerのおちびちゃんがほちいよぉ…
+			%partner、、%nameのきょれのおちゃみゃりがちゅきゃにゃいよぉ、、、
+		</baby>
+		<child>
+			じゃぁ、、//
+			%partner…%nameおちびちゃんがほしいよぉ…
+			%partner…%name、%partnerのおちびちゃんがほしいよぉ…
+			%partner、、%nameのこれのおしゃまりがちゅきゃにゃいよぉ、、、
+		</child>
+		<adult>
+			じゃぁ、、//
+			%partner…%nameおちびちゃんがほしいよぉ…
+			%partner…%name、%partnerのおちびちゃんがほしいよぉ…
+			%partner、、%nameのこれのおさまりがつかないよぉ、、、
+		</adult>
+	</normal>
+[/LetsPlay]
+
+#いいよ、きて//
+[OKcome]
+	<normal>
+		<baby>
+			いいよ、きちぇ//
+		</baby>
+		<child>
+			いいよ、きて//
+		</child>
+		<adult>
+			いいよ、きて//
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			いいよ、きて//
+			びゃっちきょーい！
+		</baby>
+		<child>
+			いいよ、きて//
+			ばっちきょーい！！
+		</child>
+		<adult>
+			いいよ、きて//
+			ばっちこーい！
+		</adult>
+	</rude>
+[/OKcome]
+
+#失恋
+[Heartbreak]
+	<normal>
+		ゆわぁぁぁぁぁぁぁん！！
+		びぇぇぇぇぇぇぇぇん！！
+		ばきゃぁぁぁぁぁぁっ！！
+	</normal>
+[/Heartbreak]
+
+#じゃましないでね！せいっさいするよ！
+[DontPreventUs]
+	<normal>
+		<baby>
+			やめちぇにぇ！じゃまちにゃいぢぇにぇ！
+			おにいちゃんといえぢょみょ、%nameのきょいはちょめりゃれにゃいよ！
+			やめちぇにぇ！%partnerをひゃにゃちちぇにぇ！
+		</baby>
+		<child>
+			やめちぇね！じゃましにゃいでね！
+			おにいしゃんといえぢょみょ、%nameのきょいはちょめりゃれにゃいよ！
+			やめちぇね！%partnerをはにゃしちぇね！
+		</child>
+		<adult>
+			やめてね！じゃましないでね！
+			おにいさんといえども、%nameのこいはとめられないよ！
+			やめてね！%partnerをはなしてね！
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			じゃみゃちにゃいぢぇにぇ！%partnerをひゃにゃちちぇにぇ！
+			じゃみゃちにゃいぢぇにぇ！ちぇいっちゃいちゅりゅよ！
+		</baby>
+		<child>
+			じゃましにゃいでね！%partnerをはにゃしてね！
+			じゃましにゃいでね！しぇいっしゃいしゅりゅよ！
+		</child>
+		<adult>
+			じゃましないでね！%partnerをはなしてね！
+			じゃましないでね！せいっさいするよ！
+		</adult>
+	</rude>
+[/DontPreventUs]
+
 [RevengeForChild]
 	<normal>
 		<baby>
